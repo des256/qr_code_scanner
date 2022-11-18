@@ -26,6 +26,6 @@ flutter:
         pluginClass: FlutterQrPlugin
       ios:
         pluginClass: FlutterQrPlugin
-#      web:
-#        pluginClass: FlutterQrPlugin
-#        fileName: flutter_qr_web.dart
+      web:
+        pluginClass: FlutterQrPlugin
+        fileName: flutter_qr_web.dart
